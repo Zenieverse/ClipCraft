@@ -5,7 +5,9 @@ ClipCraft is an Arm-optimized, fully on-device AI video editor that brings seman
 
 **One-line:** ClipCraft is an Arm-optimized, fully on-device AI video editor that provides one-tap Director mode, semantic object editing, auto-captions & summaries, and GPU-accelerated cinematic style filters — all running locally on Arm-based phones/tablets.
 
----
+https://poe.com/ClipCraftV01
+
+
 
 ## 📌 Why ClipCraft
 ClipCraft demonstrates that complex multi-model video AI pipelines (segmentation, temporal inpainting, STT, summarization, style transfer) can run efficiently and privately on Arm devices using TFLite, NNAPI, GPU delegates, and Arm NN optimizations. It’s both a user-facing app and an open-source toolbox for mobile AI developers.
